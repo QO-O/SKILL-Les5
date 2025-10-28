@@ -5,7 +5,8 @@
 
 ### Components: The differences between repositories, directories, and local vs remote? Well, a repository is an information bank in Github. Directory refers to the path something takes (Lesson > Test > Code, etc), and local is on your laptop while remote means on a server.
 
-git init ; initialising repository
-git remote add origin ;
-git add . ; adds files
-git commit -m “Commit message”
+### git init ; initialising repository
+### git remote add origin ;
+### git add . ; adds files
+### git commit -m “Commit message”
+
